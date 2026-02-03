@@ -7,9 +7,6 @@
 
 # Number of vowels: 5
 
-
-
-
 # //////////////////////////////////
 s = 'azcbobobegghakl'
 count = 0
